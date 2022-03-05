@@ -2,4 +2,4 @@ hoge
 huge
 
 # DMM WEBCAMPコンテンツ【Gitを学ぼう】
-初めてのGithubを用いたものです。
+初めてGithubを用いるために作成したリポジトリです。
